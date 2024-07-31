@@ -3,8 +3,8 @@
 To clone and start this project, execute the following commands:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/samueltrevor/propelauth-react-basic-example.git
+cd propelauth-react-basic-example
 npm install
 npm start
 ```
